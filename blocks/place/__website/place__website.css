@@ -2,3 +2,10 @@
   margin: 0;
   align-self: end;
 }
+
+@media screen and (max-width: 600px) {
+  .place__website {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
